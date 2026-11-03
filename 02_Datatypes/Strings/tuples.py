@@ -1,4 +1,4 @@
-values=('Rakesh',22,'online',False,14500)
+values=('Mahesh',22,'online',False,14500)
 
 #tuple unpacking
 name,age,mode,graduate,fees=values
