@@ -1,2 +1,1 @@
-admin1=Admin();
-admin1.login()
+print(Calculator.subtraction(90,78))
