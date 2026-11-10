@@ -1,0 +1,2 @@
+My self Rakesh Bhandary
+Write with the help of python built in method OPEN
